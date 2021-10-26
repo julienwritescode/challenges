@@ -1,5 +1,5 @@
 # challenges
-Coding challenges from around the internet. My solutions.
+My solutions to coding challenges from around the internet.
 
 Sources: 
 - leetcode.com
