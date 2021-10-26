@@ -1,6 +1,6 @@
 # Challenges
 My solutions to coding challenges from around the internet.
 
-Sources: 
+## Sources
 - leetcode.com
 - projecteuler.net
